@@ -1,0 +1,19 @@
+body{
+    background: url("http://getwallpapers.com/wallpaper/full/e/7/6/51241.jpg") no-repeat;
+}
+
+div{
+    background: blue;
+    border-color: orange;
+    border-width: 2px;
+    border-style: double;
+}
+
+p{
+    color: yellow;
+}
+
+span{
+    background: red;
+    color: black;
+}

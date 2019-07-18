@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.art{
+    margin: auto;
+}
+td{
+    background-color: black;
+    height: 200px;
+    width: 100px;
+    border: 6px solid white;
+}
+
+#one{
+    background-color: #16302B;
+}
+#two{
+    background-color: #694873;
+}
+#three{
+    background-color: #8B728E;
+}
+#four{
+    background-color: #85B79D;
+}
+#five{
+    background-color: #C0E5C8;
+}
+
+
