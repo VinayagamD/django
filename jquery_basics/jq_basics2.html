@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>JQUERY Basics</title>
+    <link rel="stylesheet" href="./css/jq_basic1.css">
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+          integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
+          integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+    <script
+            src="http://code.jquery.com/jquery-3.4.1.min.js"
+            integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+            crossorigin="anonymous"></script>
+</head>
+<body>
+<div class="container">
+    <h1>Selecting with jQuery</h1>
+    <p>You can use the $ sign to select elements from the DOM! It will feel a lot like selecting using
+        querySelectorAll().</p>
+    <p> For example:</p>
+    <ul>
+        <li>
+            Selecting all a tags:
+            <ul>
+                <li>$('a')</li>
+            </ul>
+        </li>
+
+        <li>Selecting all from the class ".container"
+            <ul>
+                <li>$('.container')</li>
+            </ul>
+        </li>
+
+        <li id="special">Selecting all with id "special"
+            <ul>
+                <li>$('#special')</li>
+            </ul>
+        </li>
+
+
+    </ul>
+
+    <h2>Here are some inputs</h2>
+    <h3>Later on we will use jQuery to interact with them! </h3>
+    <input type="text" placeholder="Enter Your Name">
+    <input type="submit" value="Submit">
+
+    <script src="./js/myevent.js"></script>
+</div>
+</body>
+</html>
