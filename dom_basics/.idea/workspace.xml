@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9452fa4c-190e-42f6-90da-446fdf1ca51e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dom2_basics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dom3_basics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/dom3_event.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bootstrap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bootstrap_project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap_project/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -40,11 +41,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dom2_basics.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="376">
               <caret line="23" column="53" selection-start-line="23" selection-start-column="53" selection-end-line="23" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dom3_basics.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/dom3_event.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -67,6 +86,8 @@
         <option value="$PROJECT_DIR$/dom1_basics.html" />
         <option value="$PROJECT_DIR$/js/dom1_color_changer.js" />
         <option value="$PROJECT_DIR$/dom2_basics.html" />
+        <option value="$PROJECT_DIR$/dom3_basics.html" />
+        <option value="$PROJECT_DIR$/js/dom3_event.js" />
       </list>
     </option>
   </component>
@@ -130,12 +151,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563619282984</updated>
-      <workItem from="1563619284120" duration="4295000" />
+      <workItem from="1563619284120" duration="5083000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4295000" />
+    <option name="totallyTimeSpent" value="5083000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -186,6 +207,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="376">
           <caret line="23" column="53" selection-start-line="23" selection-start-column="53" selection-end-line="23" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dom3_basics.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/dom3_event.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
         </state>
       </provider>
     </entry>
