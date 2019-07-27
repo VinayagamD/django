@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9452fa4c-190e-42f6-90da-446fdf1ca51e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/game.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dom_game.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/game.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bootstrap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bootstrap_project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap_project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../javascriptbasics/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javascriptbasics/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -184,24 +179,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563619282984</updated>
-      <workItem from="1563619284120" duration="6750000" />
+      <workItem from="1563619284120" duration="7391000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6750000" />
+    <option name="totallyTimeSpent" value="7391000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="GraphQL" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.329429" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.329429" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
