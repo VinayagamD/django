@@ -7,6 +7,14 @@ def index(request):
     return  render(request, "basicapp/index.html")
 
 
+def other(request):
+    return render(request, "basicapp/other.html")
+
+
+def relative(request):
+    return render(request, "basicapp/relative_url_templates.html")
+
+
 def form_name_view(request):
     form = forms.FormName()
     if request.method == "POST":
