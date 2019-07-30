@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4818850-eac7-4942-8b41-070f19acb9de" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ProTwo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProTwo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProTwo/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProTwo/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProTwo/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appTwo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appTwo/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appTwo/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appTwo/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appTwo/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appTwo/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appTwo/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appTwo/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appTwo/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appTwo/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/populate_users.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/app_two/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/app_two/users.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basicforms/templates/basicapp/users.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basicforms/basicapp/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/../basicforms/basicapp/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basicforms/templates/basicapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../basicforms/templates/basicapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../first_project/first_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../first_project/first_project/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../level2_project/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../level2_project/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../level2_project/.idea/level2_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../level2_project/.idea/level2_project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../level2_project/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../level2_project/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../level2_project/first_app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../level2_project/first_app/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../level2_project/populate_first_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../level2_project/populate_first_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../level2_project/static/css/mystyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../level2_project/static/css/mystyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../level2_project/templates/first_app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../level2_project/templates/first_app/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../protwo/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../protwo/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../protwo/apptwo/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../protwo/apptwo/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../protwo/apptwo/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../protwo/apptwo/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../protwo/apptwo/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../protwo/apptwo/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../protwo/apptwo/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../protwo/apptwo/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../protwo/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../../../protwo/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../protwo/populate_users.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../protwo/populate_users.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../protwo/protwo/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../protwo/protwo/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../protwo/templates/apptwo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../protwo/templates/apptwo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../protwo/templates/apptwo/users.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../protwo/templates/apptwo/users.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1OiQBRktH7Ul9nYy360A2UsTTI0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ProTwo" type="Python.DjangoServer" factoryName="Django server">
+      <module name="ProTwo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="ProTwo.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4818850-eac7-4942-8b41-070f19acb9de" name="Default Changelist" comment="" />
+      <created>1564457801992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564457801992</updated>
+      <workItem from="1564457805226" duration="1071000" />
+      <workItem from="1564458885935" duration="558000" />
+      <workItem from="1564459456540" duration="510000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
