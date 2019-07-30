@@ -4,7 +4,8 @@ from . import forms
 
 # Create your views here.
 def index(request):
-    return  render(request, "basicapp/index.html")
+    context_dict = {'text': 'hello world', 'number': 100}
+    return render(request, "basicapp/index.html", context=context_dict)
 
 
 def other(request):
